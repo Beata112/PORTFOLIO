@@ -17,4 +17,5 @@ Lektury:
 R. Smilgin, "Zawód tester",
 B. Momijan, "Postgre SQL".
 
-Autorska dokumentacja testowa: 
+Autorska dokumentacja testowa: https://github.com/Beata112/pyslawa-test
+
