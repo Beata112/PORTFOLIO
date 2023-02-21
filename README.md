@@ -1,4 +1,4 @@
-Beata Dudzińska- PORTFOLIO
+Beata Dudzińska- 
 My tester's portfiolio
 
 O mnie
