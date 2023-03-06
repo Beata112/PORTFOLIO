@@ -7,7 +7,7 @@ Chcę zostać testerem oprogramowania. W tym celu uczestniczyłam w szkoleniu, o
 
 Systemy Operacyjne: Windows
 
-Poznane metodologie zarządzania: EGILE
+Poznane metodologie zarządzania: AGILE
 
 Narzędzia do zarządzania testowaniem: Jira
 
